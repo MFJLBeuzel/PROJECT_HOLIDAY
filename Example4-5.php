@@ -9,5 +9,5 @@ $dinner = array('Sweet Corn and Asparagus','Lemon Chicken','Braised Bamboo Fungu
 
 $dishes = count($dinner);
 
-print "Er zijn $dishes voor het dinner.";
- ?>
+print "Er zijn $dishes dingen voor het dinner.";
+?>
